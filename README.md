@@ -5,7 +5,7 @@ This project aims to predict the daily closing stock prices of two major technol
 LSTM is chosen due to its strength in identifying patterns in time series data, which is crucial for stock price forecasting.
 
 
-### Dataset
+## Dataset
 The dataset includes key stock information such as:
 - Open Price (Open)
 - High Price (High)
